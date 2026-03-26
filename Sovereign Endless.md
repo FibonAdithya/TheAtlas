@@ -16,7 +16,6 @@
 -
 -
 - The [[Dragons]] are corrupted mockeries of the Endless, born from a failed ritual by [[Elek]] the [[The Fallen]] Endless (later known as the Emperor).
-	- The [[Dragons]] are corrupted mockeries of the Endless, born from a failed ritual by [[Elek]] the [[The Fallen]] Endless (later known as the Emperor).
 - Void - The Lost Endless (formerly Elek)
 -
 -
