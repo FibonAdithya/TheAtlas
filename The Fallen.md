@@ -1,0 +1,5 @@
+- Domain: The Void, absence, and corrupted emptiness
+- Plane: [[Nyreth]] - The Null Expanse
+	- Description: A dark, empty plane where all meaning and matter dissolve.
+	- Convergence Effects: Zones of emptiness, erasure of matter and memory, despair.
+- Corrupted Dragon: [[Elek]] (formerly known as the Emperor) - A fallen endless

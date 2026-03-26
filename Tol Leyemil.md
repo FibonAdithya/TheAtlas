@@ -1,0 +1,16 @@
+- Main Goal:
+	- Protect the realm as a hub of arcane scholarship and magic.
+	- Counter the territorial expansions of [[Yor]] to the north, which drew them into the conflict.
+- Governance:
+	- Ruled by the Arcanix Assembly, a council of mages representing various colleges across the land.
+- Military and Intelligence:
+	- Military power centered on the [[Knights Arcane]], elite magical warriors.
+	- Supported by the Eyes of Tor, a specialized spy network.
+	- Ore disruptions during the war hampered the production of essential equipment and weapons for the Knights Arcane.
+- Alliances and Relations:
+	- Maintained a neutral but slightly allied stance with [[Oystnovi]].
+	- Many Cyphermagi receive early education in Tor Leyemil’s colleges, strengthening ties.
+	- View [[Vor'ak]] as a backward society due to its fear and persecution of magic, aspiring to conquer and reform the nation.
+- Truths -
+	- **Magic is a Science not an Art**
+		-

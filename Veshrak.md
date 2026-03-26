@@ -1,0 +1,5 @@
+- **Domain:** Knowledge, but insatiable and maddening.
+- **Nature:** hoards endless forbidden knowledge but imparts it in riddles or cursed truths.
+- **Tragic Element:** It is doomed to endless thirst for answers, forever unsatisfied.
+- **Keystone** Answers any question but causes the wielder to become obsessed with endless questioning until they perish.
+-

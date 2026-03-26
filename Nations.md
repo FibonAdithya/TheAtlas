@@ -1,0 +1,15 @@
+- There are various nations within the world [[Aldran]] . Following from the great war and fall of the [[Aratin Empire]] the continent lies divided. Factions play on many sides, with many nations in the [[Treaty of the Crown]] but many other declaring their independence for self sovereignty. The former nation of [[Zilangro]], now the [[Unsea]] while not recognised, formed the heart of the continent it's destruction leaves a dark scar in the land.
+- The nations recognised within the [[Treaty of the Crown]] are:
+	- [[Grarjord]] - Standard Medival fantasy
+	- [[M'angas]] - A nation built upon priests and faith in the Santka Luinaire. Divine magic
+	- [[Tol Leyemil]] - A arcane land full of towers of sigil and rune. Arcane magic
+	- [[Korvaish]] - A land of groves, druidic magic.
+	- [[Yor]] - Cold harsh wastes. Vikings and undead
+	- [[Vor'ak]] - Dark ages. Plague, monsters of the night and witch burnings common.
+	- [[Oystnovi]] - 1984 wizards
+	- [[Draach]] - Collection of cities in the southern wastes ruled by God Kings.
+	- [[Metrol]] - Free city. Floating towers and home of the Wyrdmarked Guilds.
+	- [[Wyran Principalities]] - Pirate Islands
+- Several other places have declared their independance but are not yet formally recognised.
+	- [[Duskmire]] - Land of eternal night
+	- [[Manol]] - Jungles. Frontier with newly discovered [[Elusium]]. Cowboys, wild west, dinosaurs.

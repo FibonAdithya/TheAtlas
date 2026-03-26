@@ -1,0 +1,5 @@
+- **Domain:** Dream, but twisted into nightmares.
+- **Nature:** invades sleep to sow madness and despair rather than hope and creativity.
+- **Tragic Element:** It is a prisoner of endless torment, unable to escape its own nightmarish visions.
+- **Keystone:** Allows manipulation of dreams and illusions but causes waking madness and paranoia.
+-

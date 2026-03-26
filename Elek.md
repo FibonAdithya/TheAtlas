@@ -1,0 +1,3 @@
+- Formerly an [[Sovereign Endless]] who attempted to replace the others via a great ritual.
+- The ritual failed, transforming him into the Emperor and creating the [[Dragons]] .
+- He united the continent under his rule before abandoning his throne 100 years ago to seek answers about the ritual.

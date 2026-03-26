@@ -1,0 +1,5 @@
+- **Domain:** Battlefield and war, but endless carnage without honor.
+- **Nature:** Karnath thrives on senseless slaughter, a brutal force that mocks the Endless of Destruction’s purposeful devastation.
+- **Tragic Element:** It is bound to a battlefield littered with the ghosts of those it slaughtered, unable to find peace.
+- **Keystone of Karnath:** Grants invulnerability in combat but slowly drains the wielder’s empathy and humanity.
+-

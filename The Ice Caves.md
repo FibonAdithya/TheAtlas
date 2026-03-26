@@ -1,0 +1,21 @@
+- **Hook**: In the cold harsh wastes of Yor, near the Dragon Reach Mountain lies the town of [[Scrilar]]. For one last hunt before winter sets in, you have set your sights on the Silver Wolf. It's pelt would sell for enough to warm the town over winter. You have tracked it to it's layer in the Ice Caves, a network of catacombs in the Mountain.
+- Factions:
+	- [[The Rime Pack]] - Wolves, direwolves and werewolves that are lead by the Silver Wolf
+	- [[Snowblins]] - Snow Goblins, lead by IceBeard
+	- [[Ashborn]] - Cult dedicated to Mavet, believe that Mavet's favour lets souls to remain. Want to unleash Ashfall upon Scrilar and turn everyone into zombies.
+	- [[Drazeh]]
+- Encounter Table:
+	- 1-12: 2- is bad, 12+ is good
+		- 2-: Drazeh
+		- 3-6: Faction Specific
+		- 7: Reaccuring NPC
+		- 8-11: Minor Encounter
+		- 12+: Keystone Wielder
+- Treasure/Environment Table:
+	- 1-12: 2- is mudane/near useless, 12+ is something legendary
+		- 2-: Faction Specific (Legendary)
+		- 3-6: Faction Specific (Good)
+		- 7: Former Adventurer's gear
+		- 8-11: Faction Specific (Poor)
+		- 12+: No gear
+-

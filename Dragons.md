@@ -1,0 +1,15 @@
+- The Dragons are ancient, tragic remnants of a failed ritual by [[Elek]] meant to replicate the power of the [[Sovereign Endless]] . Born from corruption and madness, each Dragon is a dark mockery of an Endless, embodying a twisted version of their domain. Unlike gods or demons, they are not active villains but living legends—enigmatic forces whose presence is felt through myth, superstition, and rare encounters.
+- Each Dragon is bound to a unique [[Keystone]] , a powerful relic that grants immense abilities tied to the Dragon’s corrupted nature. However, wielding a Keystone comes at a terrible cost, often consuming the bearer’s sanity, vitality, or soul.
+- Though mostly dormant or imprisoned, these Dragons serve as warnings of what happens when cosmic forces are tampered with and stand as haunting echoes of the Endless’ eternal dominion. Their stories intertwine with mortal history, shaping myths, wars, and secret cults seeking to harness or avoid their dreadful power.
+- There are 8 dragons:
+	- [[Drazeh]] the Hush
+	- [[Vhyxra]] the Devouring Maw
+	- [[Kravath]] the Twisted Sculptor
+	- [[Zharthax]] the Scourge of Ruin
+	- [[Phryssil]] the Nightmare Whisperer
+	- [[Xyvlok]] the Tangler of Threads
+	- [[Gralnoth]] the Withered Maw
+	- [[Veshrak]] the Shattered Tome
+	-
+	-
+	-

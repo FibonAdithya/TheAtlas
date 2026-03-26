@@ -1,0 +1,7 @@
+- Description:
+	- A bustling trade hub and melting pot of cultures, Metrol is famed for its soaring floating towers that dominate the skyline.
+	- The city thrives on commerce, intrigue, and the subtle power struggles of its many influential families and guilds.
+- Governance:
+	- Official political power rests in a ruling parliament ([[Wyrdmarked guilds]]) made up of “house bastards” — offspring of noble houses without enough bloodline to manifest a wyrdmark.
+	- This system was established due to an ancient curse that afflicts any full-blooded member of the noble Gem Houses who attempts official office, known as the Sovereign Sickness. Victims bleed from the eyes and suffer melting flesh.
+	- This ensures the true power lies unofficially with the [[Wyrdmarked guilds]] , who control much of Metrol’s economy and industry.

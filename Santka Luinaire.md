@@ -1,0 +1,12 @@
+- Themes:
+	- Emphasis on light as purity, truth, and protection against corruption and darkness.
+	- Sacrifice is revered as the highest form of devotion, exemplified by figures like Santka Alina who gave their life to imprison the [[Decnox]] .
+	- The faith preaches vigilance and constant spiritual warfare against evil forces that threaten the world.
+- Influence and Role in Society:
+	- In [[M'angas]], the Santka Luinaire is inseparable from political power, with the state ruled by a living vessel of the Light (currently Santka Illamder).
+	- Elsewhere on the continent, it acts more as a spiritual guide and moral authority rather than a direct political power.
+	- Priests and crusaders inspired by the faith often act as divine agents, crusading to protect and spread the Light’s influence.
+- Rituals and Practices:
+	- Regular ceremonies centered on the eternal flame, symbolizing the Light’s unending vigilance.
+	- Acts of sacrifice and penance are common, with followers seeking to emulate the selflessness of the Santka.
+	- Divine magic and blessings are believed to be gifts from the Light, bestowed upon faithful servants.

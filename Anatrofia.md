@@ -1,0 +1,6 @@
+- Domain: Entropy, decay, and inevitable decline
+- Plane: [[Jerkes]] - The Churning Chaos
+	- Description: A turbulent realm of ceaseless decay and change, unraveling matter and order.
+	- Convergence Effects: Rapid rot, corruption of matter, breakdown of technology.
+- Corrupted Dragon: [[Vhyxra]] - The Devouring Maw, a monstrous force that consumes all in ceaseless hunger.
+-

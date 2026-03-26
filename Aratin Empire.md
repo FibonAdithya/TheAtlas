@@ -1,0 +1,3 @@
+- Previously united most of the continent, which was once ruled by various warring [[God-Kings]].
+- Most people only remember the empire as stories, as the [[Great War]] lasted for 70 years.
+- The Emperor was responsible for killing most of the [[God-Kings]].

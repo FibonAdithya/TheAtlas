@@ -1,0 +1,1 @@
+- Big blind tumour spider from the [[Unsea]]. Has feeler tentacles that it uses to see and ensnare prey

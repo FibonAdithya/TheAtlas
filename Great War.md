@@ -1,0 +1,11 @@
+- Civil war of the [[Aratin Empire]].
+- Lasted 70 years and ended just after the Cataclysm
+-
+- [[Cataclysm]]:
+	- Destroyed the nation of [[Zilangro]]
+	- It turned the nation's land into a magically warped wasteland known as the [[Unsea]].
+	- No one knows the cause, and the fear of it happening again is what ended the war.
+- [[Treaty of the Crown]]:
+	- A civil accord written to end the [[Great War]] after the [[Cataclysm]].
+	- It dissolved the [[Iron Throne]] of the [[Aratin Empire]].
+	- The treaty formally recognises the various independent [[Nations]] that exist today.

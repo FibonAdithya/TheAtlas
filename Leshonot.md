@@ -1,0 +1,5 @@
+- Domain: Growth, evolution, and natural progress
+- Plane: [[Veridra]] - The Verdant Expanse
+	- Description: A lush, ever-expanding wild where life continually flourishes.
+	- Convergence Effects: Rapid plant growth, sudden mutations, bursts of fertility.
+- Corrupted Dragon: [[Gralnoth]] - The Withered Maw, who poisons and stunts growth.

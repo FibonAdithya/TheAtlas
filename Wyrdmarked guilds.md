@@ -1,0 +1,30 @@
+- The Wyrdmarked Guilds are a collection of eight powerful and ancient merchant houses in the city of Metrol, each monopolizing a distinct industry.
+- Originating from noble Gem Houses during the Aratin Empire, the wyrdmarks—magical sigils manifesting unique boons—are hereditary and tied to bloodlines, appearing usually between ages 15-21.
+- Each house’s wyrdmark corresponds to a unique eye color, instantly identifying its bearers. Common eye colors like green, brown, and blue are absent, emphasizing their uniqueness.
+- An ancient curse, known as the **Sovereign Sickness**, prevents any wyrdmarked noble from holding official political power—attempts result in a horrific illness causing bleeding eyes and melting flesh.
+- To circumvent the curse, the city’s ruling parliament, the **Council of Voices**, is made up of bastards of noble blood who do not possess wyrdmarks. These bastards often have one eye revealing their house of origin but owe allegiance fluidly based on political convenience.
+	- ### Guilds and Their Industries
+		- **House D’Veyan** — *Mark of Healing* (Medical trade) — Amber eyes
+		- **[[House D’Caros]]** — *Mark of Travel* (Shipping and logistics) — Violet eyes
+		- **House D’Varron** — *Mark of Warding* (Contract enforcement, banking, vaults) — Silver-grey eyes
+		- **[[House D’Rathis]]** — *Mark of Hospitality* (Inns, taverns, food & drink) — Golden eyes
+		- **House D’Smid** — *Mark of Making* (Blacksmithing and metalwork) — Crimson red eyes
+		- **House D’Scryll** — *Mark of Scribing* (Communication and information networks) — Icy blue eyes
+		- **House D’Granth** — *Mark of Crafting* (General crafting and artisan goods) — Amethyst eyes
+		- **House D’Korval** — *Mark of Stone* (Masonry, quarrying, stonework) — Steel grey eyes
+	- ### Leadership and Power Structure
+	  collapsed:: true
+		- Each guild is led by a **High Lord or High Lady**, with an appointed heir treated with royal regard.
+		- Guild power is measured mainly through **political influence**, though **blood purity** usually correlates with higher standing.
+		- There is no formal rank hierarchy within guilds; instead, influence is fluid and constantly negotiated.
+		- Members with wyrdmarks add the prefix “D’” to their surname, signaling noble wyrdmarked status.
+	- ### Council of Voices
+	  collapsed:: true
+		- The **Council of Voices** is the ruling parliament of [[Metrol]] , made up exclusively of bastards who do not bear wyrdmarks, avoiding the Sovereign Sickness curse.
+		- These council members often reveal their house origins via one distinctive eye color but can change political alliances.
+		- The council manages governance and political decisions, balancing the competing interests of the guilds while preserving economic monopolies.
+- Rumours: [[Cyphermagi]] may have created aberrant Wyrdmarks artificially.
+- No formal pact prevents inter-house conflict; unspoken rule to mind their own affairs.
+- Rumoured history: One house secretly destroyed by other houses during the [[Aratin Empire]].
+-
+-
