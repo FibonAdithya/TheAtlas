@@ -10,7 +10,7 @@
 		- Their existence is not shaped by belief or worship
 	- The [[God-Kings]]
 		- Closer to traditional gods; their strength is directly shaped by belief.
-		- Some are credited with the creation of the races (e.g., [[Elves]] were created by [[Neuve]] the God Queen of Beauty)
+		- Some are credited with the creation of the races (e.g., [[Elf]] was created by Neuve the God Queen of Obsession)
 		- Most were 'killed' by the [[Aratin Empire]].
 		- A few still survive, ruling independent city-states in the [[Scorched Sea]]
 	- [[Santka Luinaire]]
