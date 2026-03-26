@@ -1,1 +1,1 @@
-- Big blue dragon who hangs glass beads from the spears and swords that stick their hide, because it's pretty. 'Cacophonous Beast whose Voice Glasses the Sand'. 'Whose Edicts are Thunder, Whose Poetry Arcs and Burns'. Something cool like that.
+- Big blue [[Dragons]] who hangs glass beads from the spears and swords that stick their hide, because it's pretty. 'Cacophonous Beast whose Voice Glasses the Sand'. 'Whose Edicts are Thunder, Whose Poetry Arcs and Burns'. Something cool like that.
