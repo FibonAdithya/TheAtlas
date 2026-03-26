@@ -1,0 +1,5 @@
+- One of the [[Decnox]], the Gibbering Shadow is the contagion of belief in chaos and anarchy
+- They have no prophet but any person who knows their name joins the [[Babbling Horde]]
+- Also known as the Prophet and the Mad one below
+-
+-

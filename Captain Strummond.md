@@ -1,0 +1,2 @@
+- Heir of [[House D’Caros]], moonlighing as a pirate captain to raid and disrupt house operations that he disagrees with
+- Wields the cutlass [[Blacktooth]]

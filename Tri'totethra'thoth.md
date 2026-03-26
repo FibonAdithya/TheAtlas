@@ -1,0 +1,8 @@
+- A lesser aspect of [[Balsphamorgulus]]
+- The Watcher of Eyes
+- Tri'totethra'thoth represents the eyes of chaos.
+-
+- **The Watching Eyes**
+	- A creature becomes infected with the Watching Eyes the first time they say the name "Tri'totethra'thoth"
+	- Any time the player rolls a multiple of 10, the infection spreads and another tattooed eye appears on their body
+	- One a player has 10 eyes they are one of the [[Babbling Horde]]

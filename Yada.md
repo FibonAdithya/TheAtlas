@@ -1,0 +1,5 @@
+- Domain: Knowledge, understanding, and secrets
+- Plane: [[Sythra]] - The Silent Archives
+	- Description: An endless library of whispers and hidden truths.
+	- Convergence Effects: Sudden insights, lost knowledge resurfacing, minds overwhelmed.
+- Corrupted Dragon: [[Veshrak]] - The Shattered Tome, who spreads confusion and forgotten lore.

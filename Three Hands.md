@@ -1,0 +1,6 @@
+- **Endless**: [[Yetzira]], [[Leshonot]], [[Mavet]]
+- **Belief**: Creation, growth, and death are three faces of a single cosmic hand shaping reality. Nothing begins, thrives, or ends without their interplay.
+- **Practices**:
+	- Seasonal festivals marking birth (Yetzira), flourishing (Leshonot), and decay (Mavet).
+	- Artists and builders may create in triads: a structure, a garden, and a monument or gravestone, symbolizing the balance of the cycle.
+	- Folklore emphasizes harmony: to nurture one is to honor all three.

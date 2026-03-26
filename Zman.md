@@ -1,0 +1,5 @@
+- Domain: Time, the flow and cycles of moments
+- Plane: [[Vahat]] - The Vast Gallery
+	- Description: A shifting gallery of moments and memories, where past, present, and future intermingle.
+	- Convergence Effects: Temporal loops, accelerated or slowed time, memory echoes.
+- Corrupted Dragon: [[Drazeh]] - The Hush, who stops time's flow.

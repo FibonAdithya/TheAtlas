@@ -1,0 +1,22 @@
+- The Endless are ancient beings embodying fundamental aspects of reality. They are not dependent on worship but exist as primal forces shaping the world.
+- Each Endless governs one of the [[Planes]] that cyclically converges with reality, influencing events in mysterious ways.
+- While the Sovereign are the primary religion across the continent, there is no unified church or sect. Instead is the belief of universal Sovereignty, they are the manifestations of domains not governors. Folk pay tribute to the Sovereign for favour not for attention nor boon, the Endless are always present in matters of their domain.
+- There are now 8 Endless:
+	- [[Yetzira]] - Endless of Beginnings (Creation)
+	- [[Anatrofia]] - Endless of Luck (Entropy)
+	- [[Zman]] - Endless of Journeys (Time)
+	- [[Halom]] - Endless of Magic (Dream)
+	- [[Mavet]] - Endless of Death (Destruction)
+	- [[Goral]] - Endless of Law (Fate)
+	- [[Leshonot]] - Endless of Life (Growth)
+	- [[Yada]] - Endless of Knowledge (Consciousness)
+- Void (formerly the Endless of Light and Star)
+	- The corrupted and killed Endless, whose domain became the Void.
+	- The Void’s Plane is a cold, all-consuming emptiness, reflecting the ruin of its former master.
+-
+-
+- The [[Dragons]] are corrupted mockeries of the Endless, born from a failed ritual by [[Elek]] the [[The Fallen]] Endless (later known as the Emperor).
+	- The [[Dragons]] are corrupted mockeries of the Endless, born from a failed ritual by [[Elek]] the [[The Fallen]] Endless (later known as the Emperor).
+- Void - The Lost Endless (formerly Elek)
+-
+-

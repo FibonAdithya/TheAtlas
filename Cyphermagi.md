@@ -1,0 +1,10 @@
+- Powerful wizard order; rulers of [[Oystnovi]].
+- Viewed with fear and suspicion.
+- Rumoured to have created artificial (aberrant) [[Wyrdmark]] .
+- Organised into circles of ascending hierarchy; members of the 10th Circle form the ruling council.
+- Titles: Archdama Foresight, Archdama Virtuous, Archdon Temperance, Archdama Patience, Archdon Providence.
+- New Archdamas/Archdons strip themselves of former identity; no one knows how long each has served.
+- Rarely appear in public; communicate indirectly to maintain secrecy.
+- Rule [[Oystnovi]] as a police state; their secret police are called the [[Trust]].
+- The [[Trust]] also acts as thought police, keeping citizens under constant surveillance.
+- Other nations are wary but value Oystnovi’s espionage network as a powerful ally.

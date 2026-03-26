@@ -1,0 +1,10 @@
+- <h1> Delve 1</h1>
+	- Vox a former pirate from the [[Squallgull]], after deserting the crew he searches for riches. After reaching [[Hope]] he worked at a House D’Rathis general store. Now ventures into the [[Tomb of the Breaker of Flesh]] to become rich
+	- Mud is a survivor of the [[Cataclysm]] which happened when he was a child. After working as an insurance investigator, he wandered back through the Unsea an experience that was harrowing. Now he's not sure why he is venturing into the Tomb but it's better than starving, plus eventually something will get Vox and that would be a good meal.
+	- The party begin their delve, an initial excursion into the overgrown palace reveals it abandoned and overgrown. While inspecting some [[Xul]] eggs Mud is ensnared by a [[Vinewalker]] in a moment of panic he transforms into a [[Daddy Long Legs]]. Hearing Mud's cry, Vox comes to help only to see the Spider and shoot it. Injured Mud, and Vox decided to leave the eggs alone and investigate other areas. They find several vein-line vines lining the walls and statues, which when cut spurt blood. They find some a thorned necklace and engravings of [[Tri'totethra'thoth]]. After some more exploration Vox develops an eye of the dark, and they meet a Babbler who gives them an ornate silver key before transforming into an [[Ocecrati]]. Thoroughly spooked the party decide to retreat for now
+	-
+- <h1>Delve 2</h1>
+	- The returning back the group spend about a day in [[Hope]] restocking and preparing for the dungeon. Vox approaches Jerard, the local hermit who says he cannot help with the [[Eyes of the Dark]] developing on Vox, he does however notice [[Treerazor]] and asks where it was found. **Rumours of Treerazor reach back to [[Var Rel]].**
+	- The group return through the jungle and after finding babbler to have moved a different area of the Overgrown Palace. While investigating the room they find a secret door that leads to a treasure room, where 2 Xul are surprised and quickly dispatched.
+	-
+-

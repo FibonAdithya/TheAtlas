@@ -1,0 +1,3 @@
+- Used to be the kingdom of [[Zilangro]]
+- Magical wasteland; claimed by no nation.
+- Other zones of lingering magical danger may exist but are less known.

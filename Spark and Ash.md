@@ -1,0 +1,6 @@
+- **Endless**: [[Yetzira]], [[Mavet]]
+- **Belief:** Creation and death are locked in eternal struggle; nothing pure can exist without the counterweight of destruction.
+- **Practices:**
+	- Builders, smiths, and alchemists may leave a “burn mark” at the end of projects-an acknowledgement that every creation carries the seed of its own undoing.
+		- Mythic stories depict Yetzira and Mavet clashing across planes, with mortals caught in the ripples of their struggle.
+	- Mythic stories depict Yetzira and Mavet clashing across planes, with mortals caught in the ripples of their struggle.

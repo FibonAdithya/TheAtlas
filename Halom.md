@@ -1,0 +1,5 @@
+- Domain: Dreams, illusions, and subconscious realms
+- Plane: [[Naletha]] - The Nebulous Veil
+	- Description: A shifting landscape of dreams and nightmares, where reality bends.
+	- Convergence Effects: Heightened dreams, sleepwalking, blurred lines between dream and waking.
+- Corrupted Dragon: [[Phryssil]] - The Nightmare Whisper, who spreads madness and illusion.

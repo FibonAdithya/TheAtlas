@@ -1,0 +1,6 @@
+- Domain: Destruction, collapse through force and violence
+- Plane: [[Velthar]] - The Endless Battlefield
+	- Description: An endless warzone filled with the echoes of battle and ruin.
+	- Convergence Effects: Sudden eruptions of violence, battlefield hauntings, crumbling structures.
+- Corrupted Dragon: [[Zharthax]] - The Scourge of Ruin, who revels in endless carnage.
+-

@@ -1,0 +1,5 @@
+- **Domain:** Creation, but twisted and malformed.
+- **Nature:** spawns horrific abominations rather than beauty or innovation.
+- **Tragic Element:** Its “creations” are cursed, reflecting a perversion of the Endless’s generative power.
+- **Keystone of Zelraxis:** Enables creation of constructs or lifeforms, but they inevitably rebel or decay quickly.
+-

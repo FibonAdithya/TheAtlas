@@ -1,0 +1,5 @@
+- **Endless**: [[Yetzira]], [[Halom]] (sometimes)
+- **Belief:** Creation is the purest form of connection between mortals and the universe. Innovation and invention are forms of tribute to the Endless.
+- **Practices:**
+	- Artists, inventors, and engineers may undertake **ritual “inception” moments**, like carving symbols of Silae into their workspace before beginning new projects.
+	- Some sects interpret sudden inspiration or accidents of invention as Yetzira’s subtle touch, teaching that chance and care are intertwined.

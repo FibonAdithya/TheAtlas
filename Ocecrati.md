@@ -1,0 +1,1 @@
+- Abomination morphed by [[Tri'totethra'thoth]], 10 eyes that shoot lasers and are unnaturally tough

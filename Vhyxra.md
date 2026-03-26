@@ -1,0 +1,4 @@
+- **Domain:** Entropy, but uncontrolled and wild decay.
+- **Nature:**: accelerates destruction indiscriminately, breaking down all order in its path without purpose.
+- **Tragic Element:** Unlike the Endless who balance decay with renewal, Vhyxra is trapped in blind ruin, a symbol of wasted potential.
+- **Keystone:** Allows instant dissolution of any object, but each use consumes a piece of the wielder’s own vitality.

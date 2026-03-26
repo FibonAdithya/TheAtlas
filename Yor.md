@@ -1,0 +1,14 @@
+- Environment and Motivation:
+	- A region of cold, harsh wastes leading to poor living conditions.
+	- Annual winters bring starvation and famines due to scarce resources and difficult travel/trade.
+	- Declared independence quickly to combat neglect by the Empire, seeking to expand borders and trade.
+- Governance and Society:
+	- Comprised of tribes and a few permanent settlements.
+	- No formal unifying government; rule by strength dominates—"might makes right."
+	- The Kogne tribe, Viking-like warriors, are the dominant force, known for raiding southern neighbors and demanding tribute.
+- Role of the Undead:
+	- Undead are integrated into daily life, practical workers thriving in cold without need for sustenance or warmth.
+- Relations with Other Nations:
+	- The Kogne maintain strong but jealous ties with [[Korvaish]], envying their fertile lands.
+	- View [[Tol Leyemil]]’s dependence on ancient magics and arcane tech as weakness.
+- [[The Ice Caves]]

@@ -1,0 +1,1 @@
+- The [[Great War]] ended 15 years ago due to the [[Cataclysm]].

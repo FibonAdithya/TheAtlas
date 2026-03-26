@@ -1,0 +1,2 @@
+- Keystone of [[Gralnoth]]
+- Enables rapid growth and animation but the growth is poisonous and consuming

@@ -1,0 +1,6 @@
+- Boss: IceBeard
+- Encounters:
+	- Snowblins
+	- IceTrogs (Troll/Hobgoblin, kinda like Yetis)
+	- Nawoq (Armoured Ice Bear)
+	- Centipruinia (Snow Centipede, Venomous)

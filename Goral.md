@@ -1,0 +1,5 @@
+- Domain: Fate, destiny, and the threads of possibility
+- Plane: [[Thalor]] - The Tangled Threads
+	- Description: A web-like plane where countless potential futures weave and twist.
+	- Convergence Effects: Prophecies becoming reality, sudden shifts in fortune, entanglements of destiny.
+- Corrupted Dragon: [[Xyvlok]] - The , who tangles and breaks the strands of fate.

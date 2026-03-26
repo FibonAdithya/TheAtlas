@@ -1,0 +1,5 @@
+- Boss: Silver Wolf. Huge Direwolf, Hide can only be pierced by claws it's claws (Nemean Lion style)
+- Encounters:
+	- Werewolf
+	- Wolf scouts
+	-

@@ -1,0 +1,4 @@
+- **Domain:**
+- **Nature:**:
+- **Tragic Element:** It is cursed to forever alter fate but never achieve a truly desired outcome.
+- **Keystone** Lets the wielder rewrite small parts of their fate, but with unpredictable and often catastrophic side effects.

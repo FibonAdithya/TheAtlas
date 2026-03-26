@@ -1,0 +1,12 @@
+- Domain: Creation, forming new matter and ideas
+- Plane: [[Silae]] - The Shaping Springs
+	- Description: A vibrant world of raw potential and ever-forming shapes.
+	- Convergence Effects: Sudden growths, creation of strange flora or fauna, bursts of inspiration.
+- Corrupted Dragon: [[Kravath]] - The Twisted Sculptor, who warps creation into grotesque forms.
+- Sects concerning Yetzira:
+	- [[Three Hands]]
+	- [[Spark and Ash]]
+	- [[Spring of Inspiration]]
+	- [[The Architect of Becoming]]
+-
+-

@@ -1,0 +1,12 @@
+- Each of the Planes is governed by one of the [[Sovereign Endless]]. The planes are separated by the mortal world by the [[Second Veil]].
+- These planes have cyclical convergences and manifest zones, where the effects of these planes bleed into reality. The [[Rings of Nalark]] , eight great shards orbiting the world, are tied to these convergences, though their exact cycle is unknown.
+- There are 9 planes which are:
+	- [[Velthar]] the Endless Battlefield
+	- [[Jerkes]] the Churning Chaos
+	- [[Silae]] the Shaping Springs
+	- [[Vahat]] the Vast Gallery
+	- [[Naletha]] the Nebulous Veil
+	- [[Thalor]] the Tangled Threads
+	- [[Veridra]] the Verdant Expanse
+	- [[Sythra]] the Silent Archives
+	- [[Nyreth]] the Null Void

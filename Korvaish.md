@@ -1,0 +1,16 @@
+- Primary goal: Defend sacred groves and maintain the balance of nature.
+- Governance: Ruled by the Wild Circle; led by Great Oak, an ancient treant.
+- Allies:
+	- Strong alliance with [[Grarjord]].
+	- Allied with [[Yor]], whose undead practices are seen as part of the natural cycle, influencing Korvaish’s relaxed attitude towards the dead.
+- Enemies/Challenges:
+	- Faced border skirmishes and pressure from [[M'angas]], the religious southern neighbour.
+	- Skirmishes between [[Yor]] and [[Tol Leyemil]] disrupted trade routes, causing famines in Yor.
+- Military role:
+	- Druidic magic primarily used for battlefield support and healing, aiming to reduce loss of life.
+- Economic role:
+	- Supplied grains and agricultural exports, essential for wartime sustenance.
+-
+- Truths of Korvaish:
+	- The forest provides and the ancients guide
+		- A tree does not grow overnight. There is value in

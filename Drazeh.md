@@ -1,0 +1,6 @@
+- **Domain:** Stillness. The absence of the flow of time.
+- **Nature:** Drazeh is a small (compared to others) ice dragon.  It's breath freezes and it's presence slows. Mind is shattered. It is not smart or intelligent but rather more like a animal.
+- **Tragic Element:**
+- **Keystone of Drazeh:** Allows the wielder to slow and stop things from moving or aging.
+-
+-

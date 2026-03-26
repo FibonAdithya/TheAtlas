@@ -1,0 +1,14 @@
+- Underground pyramid deep in [[Manol]] near [[Hope]], built by [[Xulgath]]
+- Discovered when Hope was originally being build, most locals stay away for stories of haunting and strange creatures that dwell below.
+- Xulgath built the tomb to act as the form of his metamorphosis where he would siphon the power of [[Treerazor]]
+- Later during the [[Great War]] some cultists of [[Tri'totethra'thoth]] found the tomb and believed it to be a monument to their master
+- 7 Levels  -
+	- The overgrown palace
+	- The offering temple
+	- The palace below
+	- The Hall of Lost Forms
+	- The Hatchery
+	- The Womb of Malediction
+	- Crypt of the God King
+- [[Delves of Vox Mud]]
+-

@@ -1,0 +1,5 @@
+- **Endless**: [[Yetzira]], [[Goral]]
+- **Belief:** Creation is bound by underlying patterns; new matter, ideas, and life must follow cosmic “blueprints.” Yetzira shapes, Goral ensures order.
+- **Practices:**
+	- Scholars, cartographers, and builders may inscribe “laws of form” or geometric symbols into their work as tribute.
+	- Mythology emphasizes that even the Endless themselves respect structure: Yetzira cannot fully create without Goral’s balancing hand.

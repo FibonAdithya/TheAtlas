@@ -1,0 +1,4 @@
+- Destroyed the nation of [[Zilangro]].
+- Turned the land into the magically warped wasteland known as the [[Unsea]].
+- Cause unknown — could be weapon, divine punishment, or experiment gone wrong.
+- Fear of it happening again ended the [[Great War]].
