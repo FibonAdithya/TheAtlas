@@ -1,0 +1,6 @@
+- The Second Age characterises a very different form of religion to the first age, obviously differing mainly in that there's no Emperor. The worship of especially powerful mortals as Saints gives most clerics their powers, and deviations from these often get quite esoteric quite quickly.
+- [[Saint Etheldreda]] - the 'Shield Saint', embodying martial might.
+- [[Saint Crailbeth]] - 'of Breath and Burial', whose purview is the dead.
+- [[Saint Grond]] - 'Friend of the Forge', blessing craftspeople and blacksmiths.
+- [[Saint Saturno]] - 'Saint of Heroes' and adventurers.
+- This age began when the last Imperial forces surrendered around Kingarrock, in the year ~700. As of writing this, this is the current Age where all the campaigns and stuff take place. Maybe there'll be a third Age at some point.

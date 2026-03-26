@@ -1,0 +1,7 @@
+- Ninefeather, Friedrich's greataxe that he brought to bear against Ozymandias high on the glaciertop. It was shattered in the fight, and each piece took the name of the first creature to wield it thereafter. As chronicled in Eofor, one of the shattered pieces of nine was used by Friedrich himself, and as such an axe exists called Friedrich. At the time of writing it is wielded by Ampelia Phos.
+- The other pieces of nine are:
+	- Kaumodaki and Zulfiqar, wielded by Bishop Solomon
+	- Hrunting, Naegling, Parshu, Gungnir, wielded by an Angel of Wrath and now taken by HOSA
+	- Friedrich, wielded by Ampelia
+	- Bellerophon, wielded by the Good Knight Gideon but now somewhere in the world
+	- An unshaped iron feather, waiting to be the last piece of nine somewhere

@@ -1,0 +1,3 @@
+- Ohso and Tiefling are interchangeable names in the Candle Coast. Both refer to an ancestry involving a bargain with Urohso/Octotrigentillion, an old god of the land that typically took the form of an aurochs.
+- The twist of the ohso is that they're like Edric from dune - they confound and obscure the strands of fate so that divination spells and prophecies get blurry if they're trying to foresee events involving an Ohso.
+- Ohsos often have ashen grey to charcoal skin, but some have shades of sandy red or bronze. All Ohso bear horns in the likeness of Urohso, the god involved in their split from humanity.

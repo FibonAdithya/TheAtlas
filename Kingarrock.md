@@ -1,0 +1,7 @@
+- [[Great Houses]], [[Thronekin]], [[Ozymandias]], [[Comitatus]], [[Avatara]], [[Draco Mortem]], [[Ama Magna]], [[The Kingarrock Spine]], [[Orcs]], [[Talos]]
+- Kingarrock. The City of Stolen Stone. King's Garrison. Formerly, [[Thebes]].
+- A bastion of military might in the central Coast. Kingarrock is an imposing walled city nestled high in the mountains of [[The Kingarrock Spine]] , and acted as the prime garrison for the Emperor's forces during the time of the Amnean Empire.
+- There's a perpetual siege on the west flank of the city. [[Orcs]] stream from the mountains - as the myths go, these are the descendants of the very first orcs - more about that in the dedicated section.
+- Kingarrock was known as [[Thebes]] in times long past, when it was a seat of power for the [[Thronekin]]. They implemented its doomsday defences: the [[Draco Mortem]], and the [[Ama Magna]].
+- [[Districts]]
+-

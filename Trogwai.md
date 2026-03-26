@@ -1,0 +1,5 @@
+- "Eeny-umbra-wanah!"
+- Also known as mini trogs or darkblins, trogwai are one-foot tall, bat-eared goblins with dark grey skin. They have glistening black insectoid eyes, meaning they have a great time hiding in shadows and the like.
+- Trogwai are found in the Breaking-Kirk. They are a particular strain of goblin that was bred to slow down an incursion of delvers or a paladin, more for use as a tool than a creature. Since the kirk's abandonment, they have essentially been able to run around the kirk to their heart's content.
+- They not reproduce in the usual way. Instead, trogwai split into two when one of two things happens. Firstly, bright sunlight causes them to split - particularly useful against a paladin or the various magicks of a delver. Second, they split whenever named, for example "what the fuck is that?? some kind of tiny goblin!" *thing splits in two*
+- That's pretty much it

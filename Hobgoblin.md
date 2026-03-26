@@ -1,0 +1,5 @@
+- "Eeny-Ogny-Wanah!"
+- NOT the wotc hobgoblins, theyre not cool, these are much cooler
+- Hobgoblins in the candle coast are big, slow, bulbous creatures that lumber about and command underlings. They have large round noses which are always blocked and sniffly, and small ears that point straight out from their big round heads.
+- They live to sleep, eat and fight, making a pretty intimidating threat just due to their sheer strength and mass. There's no technique, just picking up the most brutal object they can see and getting stuck in.
+- Like a lot of other goblin subspecies, hobgoblin skin tends to mirror the hue of the land around them. Those living in areas where the clay is iron-rich will have rusty red skin, and those in thickly forested areas might have mottled yellow-green or tan coloured hide instead.

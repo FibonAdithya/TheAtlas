@@ -1,0 +1,2 @@
+- After time, farther than distance, below depth and more obscure than absence, the Unveil. Named so for veils partition two real things, and so that which partitions one from pure nothings may not be considered a veil.
+- (It's the underdark.)

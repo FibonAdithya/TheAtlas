@@ -1,0 +1,5 @@
+- Prama Jadis, the Lady in Glass
+- She reaches out, paused moments from reaching a trio of bracelets. Encased in crystal, her attendants are her jailors, keeping the crystal strong.
+- Her only hand half-free from the ice, devoid of the Will through which she manifests her magic, flung to the side in a careless gesture as her mind focused on the bracelets above her. It is said one ninetieth of her willpower is free to act through this hand, beyond the confines of her shard. Still, it is not to be underestimated.
+- The southern counterpart to Praman Nand's campaign in the north. She deals in the black gold - whale oil, harvested at great expense in the icy wastes where the sea freezes over.
+- Fate unknown after a brief encounter with a particularly business-minded oil baron.

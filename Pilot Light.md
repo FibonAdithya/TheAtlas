@@ -1,0 +1,3 @@
+- A pilot light is essentially the ksbd gate key in the brow of each Planetar. It's a cool tetrahedral jewel.
+- It was won from trapping the starfire from the five dead Delvers in tetrahedral jewels of spireglass?
+- Or, it's an entire pocket world, set ablaze and the only pressure valve is the jewel itself. Enough to power a planetar almost forever without the need for human refuel. Maybe only Algol Ab got one, which is why it's not snuffed out yet.

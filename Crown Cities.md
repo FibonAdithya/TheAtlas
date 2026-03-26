@@ -1,0 +1,7 @@
+- In the [[Second Age]], there are five Crown Cities:
+	- [[Gordion]]
+	- [[Kingarrock]]
+	- [[Glaugarrock]]
+	- [[Yosske]]
+	- [[Halicarnassus]]
+	-

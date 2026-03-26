@@ -1,0 +1,6 @@
+- All Other Roads Lead to Ruin.
+-
+- The world has moved an indeterminate time since the events that brought about the creation of the Great Glades. Under the reign of the Everlasting King, Sovereign of the Known and Unknown World - Leopold von Otton - the Glades are a terrifying oppressor of the surrounding coast. Is history destined to repeat itself and create a new Empire?
+-
+- [[Pramana]]
+-

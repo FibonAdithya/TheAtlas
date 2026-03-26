@@ -1,0 +1,3 @@
+- The First Age is the name given to the reign of the Amnean Empire. Anything before that is aptly called the Age Before, I might change that. Anyway.
+- [[Kirks]]
+-

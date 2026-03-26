@@ -1,0 +1,8 @@
+- A little bit of worldbuilding on this before we launch into creating a mini dungeon for Zupay, Journey-ender!!
+-
+- So the Mayu Pampa is our Quechua/Andean X Fenland inspired wetlands region. Notionally a people who came up in the mountains and moved out of them some many generations ago, carrying with them their mountain and weather gods and notions of Apu mountain spirits. Contrastingly they then find themselves in a great wetland ecosystem and make their homes and baskets from wicker, their fabrics from plant fibres, their jewellery from river panned metals. They ebb and flow with the ecosystem and emphasise harmony, not at all masters of their ecosystem but very much a part of it. 
+  
+  ...
+- There is a lake called Gyilkós-tó on the border of the Mayu Pampa and the "Pannonian Steppe" (Provisional). It's an oxbow lake next to wide shallow river that creates many such lakes along its length. To its south-west, the river is bordered by dry salt flats that eventually sprout into the short grasslands of the Steppe. To its north, the land becomes ever-boggier and the grasses taller and more vibrant as we enter the Mayu Pampa. 
+  
+  Gyilkós-tó means 'Killer Lake' in the Pannonian Language. Pukaqucha in the Mayu old language, or Pukka Catcher in the simplified pronunciation of the fenfolk culture that has developed since the Mayu people descended from the mountains. The Mayu name means simply 'Red Lake', as the principal event holds

@@ -1,0 +1,7 @@
+- Creation
+	- Founding defines the start of the Third Age of Prosperity, some centuries ago in 1150
+	- Defined by a "Paradise" centred on its capital, Kingarrock.
+		- This paradise was created under debated circumstance, but the official line is that it is the magnum opus of the kingdom's rulers, a paradise free from bloodshed
+		- Those who were within several hundred kilometres of the capital at the time of the paradise's creation were stripped of their ability to envision or enact violence. In particular, this ended a centuries-long siege of the city.
+- Defining Features
+	-

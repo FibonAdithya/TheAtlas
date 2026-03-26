@@ -1,0 +1,7 @@
+- The Ama Magna is also known as the Thunderwell, the Stone-under-Sky, or the Great Soul.
+- It is one of the [[Kingarrock]]'s doomsday defences, along with the [[Draco Mortem]]. It sits just underneath the [[Comitatus]], affecting the proceedings with its truth field.
+- Physically, the Ama Magna is a spur of rock buried within Magna Hill in [[Kingarrock]]. Though the symptoms would not be correctly identified as such by those living around it, it is highly radioactive. Those who near it experience hair loss and vomiting, along with organ failure and severe external burns after prolonged exposure.
+  Though their science cannot understand this property of the Ama Magna, the [[Amnean Empire]] correctly combatted this effect by building a pool around the stone. The transmission of the radiation through water is greatly reduced in range, and only those entering the pool begin to feel its effects.
+- Primarily, the Ama Magna is a stone of Authority. It was devised by [[Thronekin]] to allow royalty to enforce their supposedly divine right to rule, and can be used as a powerful tool to exert strong wills over incredible distances. 
+  The minor effect of the Ama Magna is its truth field. Within about 300m of the stone, it is impossible to willingly lie.
+  Entering the pool, a magic-user may find they are able to cast their mind over far greater distances than previously. A scrying spell or similar is the most typically affected - increased range, as well as greater difficulty in resisting for the target of the spell.

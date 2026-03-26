@@ -1,0 +1,5 @@
+- "Eeny-Magny-Wanah!"
+- Some kind of regal caste in the hierarchy. The only ones allowed to say Eeny Magny Wanah, which they are very proud of.
+- Distinguished by their anomalous crown of small jutting bone horns about their head, the larger and more wicked the better. In the middle of these rows of spikes is a Pachycephalosaurus - esque bone plate, which they paint in the wildest dyes they can and believe it is a sign from [[Abgog]], god of goblins, that they are destined to survive literally anything.
+- They tend to mistake many things for Abgog.
+-

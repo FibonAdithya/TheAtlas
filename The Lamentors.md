@@ -1,0 +1,3 @@
+- The Lamentors of the Lonely Saint are a many-denominational group of acolytes. They follow [[Saint Saturno]], who (they believe) is a minotaur saint of heroes and adventurers.
+- Being a minotaur, Saturno shares the Ohso property of inscrutability under magical means, as well as making future-sight abilities malfunction when turned to events involving him. However, minotaurs also confound the past: as soon as direct eye contact is broken, all memory involving Saturno is lost. It's like the silence in Dr Who.
+- The group of Lamentors that includes Graine and Bonjocovic wear green and white robes. They carry baton-clubs as their weapon of choice, and believe that Saturno wants essentially fellow adventurers. So they follow him into places like the Slatefang mines.
