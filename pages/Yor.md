@@ -12,3 +12,6 @@
 	- The Kogne maintain strong but jealous ties with [[Korvaish]], envying their fertile lands.
 	- View [[Tol Leyemil]]’s dependence on ancient magics and arcane tech as weakness.
 - [[The Ice Caves]]
+-
+- <h2>Truths</h2>
+	- **Powerful Shamans**
