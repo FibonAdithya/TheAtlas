@@ -1,0 +1,19 @@
+- Magic System:
+	- Mages use components or spells to reach through the [[First Veil]]
+	- The [[First Veil]] is a barrier that separates the natural world from magic.
+	- The [[Second Veil]] separates the world from the various [[Planes]].
+- Deities and Beliefs:
+	- The primal dragons ([[Salark]], [[Nalark]], [[Talark]]) are not actively worshipped.
+	- The [[Sovereign Endless]]:
+		- God-like beings tied to the [[Planes]] beyond the [[Second Veil]]
+		- They are the embodiment of forces and concepts (e.g., Destruction, Knowledge).
+		- Their existence is not shaped by belief or worship
+	- The [[God-Kings]]
+		- Closer to traditional gods; their strength is directly shaped by belief.
+		- Some are credited with the creation of the races (e.g., [[Elves]] were created by [[Neuve]] the God Queen of Beauty)
+		- Most were 'killed' by the [[Aratin Empire]].
+		- A few still survive, ruling independent city-states in the [[Scorched Sea]]
+	- [[Santka Luinaire]]
+		- A strict monotheistic faith centered on the divine Light.
+		- The Light is the singular sacred force opposing darkness and evil, especially the ancient threat of the [[Decnox]] .
+		- Each Santka (Saint) is believed to be a vessel or chosen conduit of the Light, manifesting its power on the mortal plane.

@@ -12,6 +12,9 @@
 -
 - [[The Lamentors]] are here as they believe Saturno to be pursuing a 'false idol' - that is, a creature that mimics Saturno's abilities and thus leads Lamentors astray. They have named this quarry Pluton. However, what they do not realise is that Pluton is the only memory-confounding being in this part of the Coast, and is in reality an aslin. Aslin are terrifying snail-like monsters from the Duat, and since they are born of mortal dreams they are very individual and weird and fucked up but for some reason (because we need a motif) they all look snail-like. Anyway, this one is called Pluton (it doesn't really name itself but knows that it plays that role in the Lamentors' story) and needs the Lamentors to access something in the lower levels of the Kirk.
 -
+- [[The Cloak of Jove]]
+-
+-
 - The First Chorus of Rust houses the remembrancer, the Firsthands of Grond, the Bells of Breaking, and the Twin Plagues: Oxidis Amas (the "sticking-rust") and Oxidis Corpus (the "puppet curse"). It has a pigpen and a pen of rust monsters. all the mod cons.
   
   The first chorus was the first avenue off attack against starmetal. The idea was to accelerate the rusting process, and to attempt to corrode the starmetal as if it had endured centuries of weathering. The idea existed for ferrous metals already; the trick would be getting it to stick on the Emperor's meteoric surgold. 
