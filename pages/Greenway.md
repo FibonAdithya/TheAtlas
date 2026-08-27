@@ -1,0 +1,1 @@
+[[Korvaish]]'s groves connected past the first veil in the greenway allowing for the travelling of vast distances much faster than they should be.

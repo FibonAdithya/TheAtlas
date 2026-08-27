@@ -1,4 +1,4 @@
-- Primary goal: Defend sacred groves and maintain the balance of nature.
+
 - Governance: Ruled by the Wild Circle; led by Great Oak, an ancient treant.
 - Allies:
 	- Strong alliance with [[Grarjord]].
@@ -12,5 +12,12 @@
 	- Supplied grains and agricultural exports, essential for wartime sustenance.
 -
 - Truths of Korvaish:
-	- The forest provides and the ancients guide
-		- A tree does not grow overnight. There is value in
+	- The Map Lies
+		- "There's a Korvaishi town 3 days into Vor'ak. It pays its tithes and the lamp burns green. Ask them where they are and they'll say Korvaish - but not one of them has seen the Circle."
+		- Korvaish is a network of groves not a country with edges. When a grove grows it brings life to the town: wounds close a little faster, grain keeps a little longer, the weather is a little bit nicer. Eventually the grove connects to the [[Greenway]] and goods move between them without Guild ships or a gram of Elusium
+	- Every Town has a Founder, you can sit in their shade
+		- "The oak in our square is called Missa. She laid down the first ring, married my great-grandfather's brother. Shame she stopped speaking 90 years ago. Of course we leave harvest cuttings at her feet. No it's not stupid - it only right we look after our own."
+		- A young Warden has maybe twenty or thirty mobile years. They go out, they find ground, they plant and they tend. And at some point one of the groves claims them, and after that they cannot leave. So every Warden lives with the knowledge that one of the places they founded will be their last, and they don't know which.  There are Wardens bound to groves in nations that don't recognise Korvaish, who cannot go home.
+	- Useful to Everyone, Forever
+		- "We fed both armies. Yes, both. A grove in M'angas drinks the same as a grove in Grarjord, and neither one survives a nation deciding we're a problem."
+		- Korvaish cannot expand by force - only by invitation. Every grove abroad exists because someone permitted it, and permission can be withdrawn. So the entire foreign policy is a single imperative: stay useful, stay agreeable, never be feared. This is why the war doctrine is support and healing rather than offence; not because Korvaish is gentle, but because a nation that frightens people loses its groves.
