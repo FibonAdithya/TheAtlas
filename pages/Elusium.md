@@ -1,0 +1,1 @@
+Elusium is a rare magical substance that acts as a bridge to beyond the [[Second Veil]]. The process of refining elusium fixes one end to one of the [[Planes]] to stabilise it and bind it's properties
