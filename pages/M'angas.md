@@ -1,11 +1,11 @@
 - Main Objective:
 - Home to the [[Santka Luinaire]] (Saints of Light).
 - Mining released ancient forces called the [[Decnox]] , threatening the nation’s survival.
-- Santka Alina sacrificed herself to imprison the Decnox beneath the world, guarded by the eternal flame.
+- [[Santka Alina]] sacrificed herself to imprison the Decnox beneath the world, guarded by the eternal flame.
 - After this, Santka Luinaire declared the [[Sovereign Endless]] abandoned the world and sought to spread their faith fervently, fearing the Decnox’s return.
 - Governance:
 	- Theocracy led by a single vessel of the Luinaire.
-	- Current leader: Santka Illamder, a 10-year-old believed to be Alina’s reincarnation.
+	- Current leader: [[Santka Illamder]], a 10-year-old believed to be Alina’s reincarnation.
 - Military Role:
 	- Crusading forces led by zealous priests and crusaders.
 	- Divine magic manifests as blessed resilience and power, driving fearsome religious zeal.

@@ -3,4 +3,5 @@
 - [[Saint Crailbeth]] - 'of Breath and Burial', whose purview is the dead.
 - [[Saint Grond]] - 'Friend of the Forge', blessing craftspeople and blacksmiths.
 - [[Saint Saturno]] - 'Saint of Heroes' and adventurers.
+- [[Saint Leonid]] - The false saint. Embodying deception and comfort.
 - This age began when the last Imperial forces surrendered around Kingarrock, in the year ~700. As of writing this, this is the current Age where all the campaigns and stuff take place. Maybe there'll be a third Age at some point.
