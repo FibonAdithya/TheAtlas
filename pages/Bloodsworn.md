@@ -1,0 +1,1 @@
+The Bloodsworn are roaming wanderers who dedicate their talents to slaying supernatural threats (including [[Shaman]]). They are called the Bloodsworn because it is believed that their blood mixed with the [[Emperor]] to bind them in his service and to grant them powers to hunt.
